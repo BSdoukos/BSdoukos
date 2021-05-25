@@ -1,6 +1,6 @@
 - Hi, I’m Bruno Sdoukos.
-- I have knowledge in HTML, CSS, JavaScript, jQuery, Bootstrap and related tools.
-- I’m currently learning Git.
+- I have knowledge in HTML, CSS, JavaScript, jQuery, Bootstrap, Git and related tools.
+- I’m currently learning Node.js.
 - You can reach me by means of my e-mail: bruno.sdoukos@outlook.com
 
 <!---
